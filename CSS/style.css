@@ -1,0 +1,35 @@
+div {
+    border: 1px dotted red; 
+    background-color: aquamarine;
+    margin: 10px;
+    width: 400px;
+    height: 300px;
+    }
+    
+    .title {
+    color: salmon;
+    border-bottom: 1px dotted blue;
+    }
+    .multimedia {
+    
+    
+    }
+    /**/
+    #mapa { 
+     background-color: brown;
+    }
+    
+    iframe, img, video{ 
+    height: 100px; width: 100px;
+    
+    }
+    h1 { 
+        background-color: rgb(231, 168, 86);
+        padding: 13px;
+    }
+    
+    p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    padding: 10px;
+    
+    }
